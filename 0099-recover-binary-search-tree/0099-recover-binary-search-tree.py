@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 
-class Solution:
+class Solution1:
     def recoverTree(self, root: Optional[TreeNode]) -> None:
         """
         Do not return anything, modify root in-place instead.
@@ -31,7 +31,7 @@ class Solution:
 
         
 
-class Solution1:
+class Solution:
     def recoverTree(self, root: Optional[TreeNode]) -> None:
         """
         Do not return anything, modify root in-place instead.
